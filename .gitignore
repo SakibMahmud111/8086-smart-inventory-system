@@ -1,0 +1,21 @@
+# === Assembler & Linker Outputs ===
+*.obj
+*.lst
+*.map
+*.dbg
+*.symbols
+
+# === Compiled Executables ===
+*.exe
+*.com
+*.bin
+
+# === EMU8086 Workspace Backups ===
+# EMU8086 often creates automatic backups or temporary state logs
+*.bak
+*.tmp
+_*.asm
+
+# === OS Specific Clutter ===
+.DS_Store
+Thumbs.db
